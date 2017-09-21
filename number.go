@@ -1,4 +1,4 @@
-package goformatutils
+package format
 
 import "strconv"
 

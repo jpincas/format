@@ -1,4 +1,4 @@
-package goformatutils
+package format
 
 //BoolToYesOrNo formats True/False as "Yes" or "No"
 func BoolToYesOrNo(tf bool) string {
